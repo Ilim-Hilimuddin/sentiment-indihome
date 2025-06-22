@@ -21,7 +21,7 @@ Proyek ini bertujuan untuk menganalisis opini pelanggan IndiHome berdasarkan dat
 
 ## 🖼 Contoh Hasil
 
-![grafana](dashboard/grafana_dashboard_screenshot.png)
+![grafana](dashboard/dashboard.png)
 
 ## 📦 Requirements
 
