@@ -1,0 +1,8 @@
+python-dotenv
+pandas
+matplotlib
+seaborn
+tweepy
+nltk
+sastrawi
+psycopg2-binary
